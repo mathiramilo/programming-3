@@ -1,0 +1,8 @@
+# no siempre hay capacidad, sin reinicios
+leer_datos
+4 3 2 100 .
+leer_rendimiento
+4 3 2 1 .
+max_datos_procesados
+planificacion_optima
+Fin

@@ -1,0 +1,8 @@
+# dos reinicios, como pide parte a) del ejercicio
+leer_datos
+10 20 30 40 50 .
+leer_rendimiento
+8 4 3 2 1 .
+max_datos_procesados
+planificacion_optima
+Fin

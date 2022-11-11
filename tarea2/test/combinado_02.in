@@ -1,0 +1,16 @@
+leer_grafo
+10 no-dirigido
+1: 2 p5 3 p3 4 p6 .
+2: 3 p2 6 p16 7 p13 .
+3: 4 p4 5 p7 .
+4: 5 p1 8 p20 .
+5: 7 p14 9 p9 .
+6: 7 p15 .
+7: 10 p12 .
+8: 9 p11 .
+9: 10 p10 .
+10: .
+0: .
+prim
+grafo_arista 1 8 8
+Fin

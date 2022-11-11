@@ -1,0 +1,5 @@
+generar_grafo
+100000 con_ciclo
+generar_grafo
+100000 sin_ciclo
+Fin

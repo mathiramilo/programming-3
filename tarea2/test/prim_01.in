@@ -1,0 +1,8 @@
+leer_grafo
+3 no-dirigido
+1: 2 p5 3 p3 .
+2: 3 p4 .
+3: .
+0: .
+prim
+Fin

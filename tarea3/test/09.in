@@ -1,0 +1,17 @@
+# dos reinicios
+leer_datos
+10 9 8 7 6 5 100 4 100 3 .
+leer_rendimiento
+20 9 8 7 6 5 4 3 2 1 .
+max_datos_procesados
+planificacion_optima
+# hasta tres reinicios
+leer_datos
+10 20 20 50 20 15 50 .
+leer_rendimiento
+50 10 5 4 3 2 1 .
+max_datos_procesados
+planificacion_optima
+Fin
+
+

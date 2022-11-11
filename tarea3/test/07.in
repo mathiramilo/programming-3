@@ -1,0 +1,8 @@
+# tres reinicios
+leer_datos
+1 10 20 30 40 50 60 .
+leer_rendimiento
+30 6 5 4 3 2 1 .
+max_datos_procesados
+planificacion_optima
+Fin

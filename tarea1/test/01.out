@@ -1,0 +1,4 @@
+1>2>Hay orden topologico 
+3>4>Hay orden topologico 
+5>6>Hay un ciclo 
+7>Fin.

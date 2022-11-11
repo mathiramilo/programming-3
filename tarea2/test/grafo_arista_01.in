@@ -1,0 +1,8 @@
+leer_mst
+3 no-dirigido
+1: 2 p5 3 p3 .
+2: .
+3: .
+0: .
+grafo_arista 2 3 1
+Fin

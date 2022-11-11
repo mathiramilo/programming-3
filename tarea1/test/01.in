@@ -1,0 +1,22 @@
+leer_grafo
+10 dirigido
+1: .
+2: .
+3: .
+0: .
+orden_topologico
+leer_grafo
+10 dirigido
+1: 2 .
+2: 3 .
+3: .
+0: .
+orden_topologico
+leer_grafo
+10 dirigido
+1: 2 .
+2: 3 .
+3: 1 .
+0: .
+orden_topologico
+Fin

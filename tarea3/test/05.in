@@ -1,0 +1,8 @@
+# un reinicio al principio
+leer_datos
+5 10 2 1 .
+leer_rendimiento
+10 3 2 1 .
+max_datos_procesados
+planificacion_optima
+Fin

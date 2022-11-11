@@ -1,0 +1,9 @@
+leer_mst
+4 no-dirigido
+1: 2 p1 .
+2: 3 p2 .
+3: 4 p5 .
+4: .
+0: .
+grafo_arista 2 4 6
+Fin
